@@ -29,4 +29,6 @@ Data Analyst Portfolio
      * [Sales Dashboard Power BI](https://github.com/hhuseyincosgun/Sales-Dashboard-Power-BI)
 
 
+* [Certificates](https://github.com/hhuseyincosgun/Data-Analyst-Portfolio?tab=readme-ov-file#certificates)
 
+https://www.credly.com/badges/71af13fe-f856-43df-9394-62759971fb96
