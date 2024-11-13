@@ -12,6 +12,7 @@ Data Analyst Portfolio
       * [Online Retail EDA+RFM Analysis](https://github.com/hhuseyincosgun/Online-Retail-EDA-RFM-Analysis/tree/main)
       * [A/B Testing Marketing Promotions](https://github.com/hhuseyincosgun/A-B-Testing-Marketing-Promotions/tree/main)
       * [Prediction of Developing Diabetes](https://www.kaggle.com/code/huseyincosgun/prediction-of-developing-diabetes)
+      * [NYC Airbnb Data Analysis](https://github.com/hhuseyincosgun/NYC-Airbnb-Data-Analysis/blob/main/new-york-city-airbnb-analysis.ipynb)
 
 
 
@@ -44,3 +45,5 @@ In this section you can find short summary of the listed projects for quick comp
 #### A/B Testing Marketing Promotions
 
 #### Prediction of Developing Diabetes
+
+#### NYC Airbnb Data Analysis
