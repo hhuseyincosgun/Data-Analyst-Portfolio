@@ -33,5 +33,8 @@ Data Analyst Portfolio
 
 ## Certificates
 
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/71af13fe-f856-43df-9394-62759971fb96) (2024) (AWS)
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/71af13fe-f856-43df-9394-62759971fb96) (AWS - 2024)
+
+[AWS Cloud Technical Bootcamp](https://certificate.miuul.com/hasan_huseyin_cosgun) (MIUUL - 2024)
+
 
