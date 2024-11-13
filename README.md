@@ -16,6 +16,7 @@ Data Analyst Portfolio
       * [Missing Data Imputation + Visualization](https://www.kaggle.com/code/huseyincosgun/missing-data-imputation-visualization)
       * 
   * ### SQL
+      * [SQL With Real Cases](https://github.com/hhuseyincosgun/SQL-With-Real-Cases/tree/main)
       * [CRUD Flask Postgres Docker](https://github.com/hhuseyincosgun/CRUD-flask-postgres-docker/tree/main)
 
   * ### AWS & Data Engineering
@@ -24,7 +25,8 @@ Data Analyst Portfolio
      * [AWS Lambda, SQS, and S3 Workflow](https://github.com/hhuseyincosgun/AWS-Lambda-SQS-and-S3-Workflow)
      * 
 
-
+   * ### Power BI
+    
 
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
