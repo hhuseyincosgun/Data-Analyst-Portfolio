@@ -5,6 +5,8 @@ My name is Hasan Huseyin Cosgun, and I am a data analyst with a strong foundatio
 
 In this portfolio, I have included data projects that demonstrate my technical expertise and analytical capabilities. Here, you'll find documents, workbooks, presentation slides, and dashboards created with SQL, Python, and Jupyter Notebook. These projects showcase my ability to organize, analyze, and present data in a clear and visually engaging way, making complex information easily accessible and supporting informed decision-making.
 
+[Medium Articles](https://medium.com/@hhuseyincosgun)
+
 
 ## Table of Contents
 
