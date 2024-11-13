@@ -14,10 +14,12 @@ Data Analyst Portfolio
       * [Prediction of Developing Diabetes](https://www.kaggle.com/code/huseyincosgun/prediction-of-developing-diabetes)
       * [NYC Airbnb Data Analysis](https://github.com/hhuseyincosgun/NYC-Airbnb-Data-Analysis/blob/main/new-york-city-airbnb-analysis.ipynb)
       * [Missing Data Imputation + Visualization](https://www.kaggle.com/code/huseyincosgun/missing-data-imputation-visualization)
-      * 
-  * ### SQL
+      * [Feature Engineering](https://github.com/hhuseyincosgun/Feature-Engineering/tree/main)
+  
+  *  ### SQL
       * [SQL With Real Cases](https://github.com/hhuseyincosgun/SQL-With-Real-Cases/tree/main)
       * [CRUD Flask Postgres Docker](https://github.com/hhuseyincosgun/CRUD-flask-postgres-docker/tree/main)
+      * [SQL Window Functions](https://github.com/hhuseyincosgun/SQL_Window_Functions)
 
   * ### AWS & Data Engineering
      * [Data Engineering Journey](https://github.com/hhuseyincosgun/Data-Engineering-with-Basics-and-ETL-Processes?tab=readme-ov-file)
@@ -26,7 +28,7 @@ Data Analyst Portfolio
      * 
 
    * ### Power BI
-    
+     * [Sales Dashboard Power BI](https://github.com/hhuseyincosgun/Sales-Dashboard-Power-BI)
 
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
