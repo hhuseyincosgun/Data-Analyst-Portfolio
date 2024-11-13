@@ -13,6 +13,8 @@ Data Analyst Portfolio
       * [A/B Testing Marketing Promotions](https://github.com/hhuseyincosgun/A-B-Testing-Marketing-Promotions/tree/main)
       * [Prediction of Developing Diabetes](https://www.kaggle.com/code/huseyincosgun/prediction-of-developing-diabetes)
       * [NYC Airbnb Data Analysis](https://github.com/hhuseyincosgun/NYC-Airbnb-Data-Analysis/blob/main/new-york-city-airbnb-analysis.ipynb)
+      * [Missing Data Imputation + Visualization](https://www.kaggle.com/code/huseyincosgun/missing-data-imputation-visualization)
+      * 
 
 
 
@@ -47,3 +49,5 @@ In this section you can find short summary of the listed projects for quick comp
 #### Prediction of Developing Diabetes
 
 #### NYC Airbnb Data Analysis
+
+#### Missing Data Imputation + Visualization
