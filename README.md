@@ -11,6 +11,7 @@ Data Analyst Portfolio
    * ### Python
       * [Online Retail EDA+RFM Analysis](https://github.com/hhuseyincosgun/Online-Retail-EDA-RFM-Analysis/tree/main)
       * [A/B Testing Marketing Promotions](https://github.com/hhuseyincosgun/A-B-Testing-Marketing-Promotions/tree/main)
+      * [Prediction of Developing Diabetes](https://www.kaggle.com/code/huseyincosgun/prediction-of-developing-diabetes)
 
 
 
@@ -41,3 +42,5 @@ In this section you can find short summary of the listed projects for quick comp
 #### Online Retail EDA+RFM Analysis
 
 #### A/B Testing Marketing Promotions
+
+#### Prediction of Developing Diabetes
