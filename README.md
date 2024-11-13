@@ -20,6 +20,9 @@ Data Analyst Portfolio
 
   * ### AWS & Data Engineering
      * [Data Engineering Journey](https://github.com/hhuseyincosgun/Data-Engineering-with-Basics-and-ETL-Processes?tab=readme-ov-file)
+     * [Real-Time BTC Price Visualization and Sentiment Analysis](https://github.com/hhuseyincosgun/Real-Time-BTC-Price-Visualization-and-Sentiment-Analysis)
+     * [AWS Lambda, SQS, and S3 Workflow](https://github.com/hhuseyincosgun/AWS-Lambda-SQS-and-S3-Workflow)
+     * 
 
 
 
@@ -58,3 +61,7 @@ In this section you can find short summary of the listed projects for quick comp
 #### CRUD Flask Postgres Docker
 
 #### Data Engineering Journey
+
+#### Real-Time BTC Price Visualization and Sentiment Analysis
+
+#### AWS Lambda, SQS, and S3 Workflow
