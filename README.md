@@ -8,8 +8,11 @@ Data Analyst Portfolio
   
 * [Portfolio Projects](https://github.com/hhuseyincosgun/Data-Analyst-Portfolio?tab=readme-ov-file#projects)
 
-   * Python
+   * ### Python
       * [Customer Segmentation with RFM Model](https://github.com/hhuseyincosgun/Online-Retail-EDA-RFM-Analysis/tree/main)
+      * [A/B Testing Marketing Promotions](https://github.com/hhuseyincosgun/A-B-Testing-Marketing-Promotions/tree/main)
+
+
 
 
 
@@ -36,6 +39,6 @@ In this section you can find short summary of the listed projects for quick comp
 
 
 Customer Segmentation with RFM Model
-For this project, I analyzed retail transactions data and classified customers into distinct groups by using RFM model and quantile scoring method. The objective was to help the business gain insights and develop effective engagement strategies based on customer behaviors. In the end, I created two tables describing group charateristics and sharing recommended marketing strategies.
 
-The skills showcased in this project are Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, and subplot visualization.
+
+A/B Testing Marketing Promotions
