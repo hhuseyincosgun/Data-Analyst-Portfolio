@@ -31,21 +31,7 @@ Data Analyst Portfolio
 
 * [Certificates](https://github.com/hhuseyincosgun/Data-Analyst-Portfolio?tab=readme-ov-file#certificates)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Certificates
-https://www.credly.com/badges/71af13fe-f856-43df-9394-62759971fb96
+
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/71af13fe-f856-43df-9394-62759971fb96) (2024) (AWS)
+
