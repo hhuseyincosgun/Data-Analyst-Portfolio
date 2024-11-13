@@ -1,5 +1,9 @@
-# Data-Analyst-Portfolio
-Data Analyst Portfolio
+# Data Analyst Portfolio
+Welcome to my portfolio!
+
+My name is Hasan Huseyin Cosgun, and I am a data analyst with a strong foundation in leveraging data tools to clean, analyze, and visualize data, empowering decision-making and driving impactful changes. I am proficient in Python, SQL, AWS, Data Engineering, and Power BI, with a solid understanding of data analytics techniques, including data preparation, data wrangling, statistical analysis, chart design, dashboard building, process documentation, and data storytelling.
+
+In this portfolio, I have included data projects that demonstrate my technical expertise and analytical capabilities. Here, you'll find documents, workbooks, presentation slides, and dashboards created with SQL, Python, and Jupyter Notebook. These projects showcase my ability to organize, analyze, and present data in a clear and visually engaging way, making complex information easily accessible and supporting informed decision-making.
 
 
 ## Table of Contents
