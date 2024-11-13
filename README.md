@@ -15,8 +15,11 @@ Data Analyst Portfolio
       * [NYC Airbnb Data Analysis](https://github.com/hhuseyincosgun/NYC-Airbnb-Data-Analysis/blob/main/new-york-city-airbnb-analysis.ipynb)
       * [Missing Data Imputation + Visualization](https://www.kaggle.com/code/huseyincosgun/missing-data-imputation-visualization)
       * 
-   * ### SQL
+  * ### SQL
       * [CRUD Flask Postgres Docker](https://github.com/hhuseyincosgun/CRUD-flask-postgres-docker/tree/main)
+
+  * ### AWS & Data Engineering
+     * [Data Engineering Journey](https://github.com/hhuseyincosgun/Data-Engineering-with-Basics-and-ETL-Processes?tab=readme-ov-file)
 
 
 
@@ -53,3 +56,5 @@ In this section you can find short summary of the listed projects for quick comp
 #### Missing Data Imputation + Visualization
 
 #### CRUD Flask Postgres Docker
+
+#### Data Engineering Journey
