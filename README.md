@@ -9,7 +9,7 @@ Data Analyst Portfolio
 * [Portfolio Projects](https://github.com/hhuseyincosgun/Data-Analyst-Portfolio?tab=readme-ov-file#projects)
 
    * ### Python
-      * [Customer Segmentation with RFM Model](https://github.com/hhuseyincosgun/Online-Retail-EDA-RFM-Analysis/tree/main)
+      * [Online Retail EDA+RFM Analysis](https://github.com/hhuseyincosgun/Online-Retail-EDA-RFM-Analysis/tree/main)
       * [A/B Testing Marketing Promotions](https://github.com/hhuseyincosgun/A-B-Testing-Marketing-Promotions/tree/main)
 
 
@@ -38,7 +38,6 @@ Data Analyst Portfolio
 In this section you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.
 
 
-Customer Segmentation with RFM Model
+#### Online Retail EDA+RFM Analysis
 
-
-A/B Testing Marketing Promotions
+#### A/B Testing Marketing Promotions
