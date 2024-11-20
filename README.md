@@ -33,8 +33,6 @@ In this portfolio, I have included data projects that demonstrate my technical e
      * [Data Engineering Journey](https://github.com/hhuseyincosgun/Data-Engineering-with-Basics-and-ETL-Processes?tab=readme-ov-file)
      * [Real-Time BTC Price Visualization and Sentiment Analysis](https://github.com/hhuseyincosgun/Real-Time-BTC-Price-Visualization-and-Sentiment-Analysis)
      * [AWS Lambda, SQS, and S3 Workflow](https://github.com/hhuseyincosgun/AWS-Lambda-SQS-and-S3-Workflow)
-     * 
-
 
 
 
