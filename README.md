@@ -19,6 +19,10 @@ In this portfolio, I have included data projects that demonstrate my technical e
       * [NYC Airbnb Data Analysis](https://github.com/hhuseyincosgun/NYC-Airbnb-Data-Analysis/blob/main/new-york-city-airbnb-analysis.ipynb)
       * [Missing Data Imputation + Visualization](https://www.kaggle.com/code/huseyincosgun/missing-data-imputation-visualization)
       * [Feature Engineering](https://github.com/hhuseyincosgun/Feature-Engineering/tree/main)
+    
+  * ### Power BI
+     * [Sales,Customers and Employees Dashboard](https://github.com/hhuseyincosgun/Sales-Customers-Employees-Dashboard)
+     * [Sales,Products. and Customers Dashboards](https://github.com/hhuseyincosgun/Sales-Products-Customers-Dashboards)
   
   *  ### SQL
       * [SQL With Real Cases](https://github.com/hhuseyincosgun/SQL-With-Real-Cases/tree/main)
@@ -31,8 +35,7 @@ In this portfolio, I have included data projects that demonstrate my technical e
      * [AWS Lambda, SQS, and S3 Workflow](https://github.com/hhuseyincosgun/AWS-Lambda-SQS-and-S3-Workflow)
      * 
 
-   * ### Power BI
-     * [Sales Dashboard Power BI](https://github.com/hhuseyincosgun/Sales-Dashboard-Power-BI)
+
 
 
 * [Certificates](https://github.com/hhuseyincosgun/Data-Analyst-Portfolio?tab=readme-ov-file#certificates)
